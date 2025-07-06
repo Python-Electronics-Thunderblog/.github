@@ -58,6 +58,6 @@
   </a>
   &nbsp;
   <a href="https://thunderblog.org/">
-    <img src="https://thunderblog.org/wp-content/uploads/2019/01/3a3ebe17350da7a11663597f2b30087f.png" alt="Blog">
+    <img src="https://yt3.googleusercontent.com/LSEIeNfvWziRT0OJVlqazTy4E9cM83qTG8otYVjPtzvvKmBBmwt1A3YKixaCngg795gIeF1SBSY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Blog">
   </a>
 </p>
