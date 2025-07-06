@@ -1,3 +1,4 @@
+# Page Title | ページタイトル
 <div align="center">
   <br>
   <h1>
@@ -10,7 +11,7 @@
 
 ---
 
-### 📖 About Me | 本Organizationについて
+## 📖 About Me | 本Organizationについて
 
 ようこそ！  
 ここは、プログラミング言語Pythonと電子工作の面白さを探求する **「Thunderblog」** のGitHub Organizationです。  
@@ -26,7 +27,7 @@
 
 ---
 
-### ✨ Featured Projects | 主要プロジェクト
+## ✨ Featured Projects | 主要プロジェクト
 
 現在進行中、または完成した主要なプロジェクトです。  
 公開後には各リポジトリでコードや詳細な解説を見ることができます。  
@@ -40,7 +41,7 @@
 
 ---
 
-### 🛠️ Tech Stack | 主な使用技術
+## 🛠️ Tech Stack | 主な使用技術
 
 私たちのプロジェクトで主に使用している技術スタックです。
 
@@ -50,13 +51,23 @@
 
 ---
 
-### 🌐 Social Links | 関連リンク
+## 🌐 Social Links | 関連リンク
 
+### YouTube
+<div align="center">
+<a href="https://www.youtube.com/@ThunderBlogYouTube">
+  <img src="https://yt3.googleusercontent.com/LSEIeNfvWziRT0OJVlqazTy4E9cM83qTG8otYVjPtzvvKmBBmwt1A3YKixaCngg795gIeF1SBSY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="YouTubeチャンネル">
+</a>
+
+### Twitter
 <p align="center">
   <a href="https://x.com/thunder5178">
     <img src="https://pbs.twimg.com/profile_banners/121376547/1627781558/600x200" alt="X (Twitter)">
   </a>
-  &nbsp;
+</p>
+
+### Blog
+<p align="center">
   <a href="https://thunderblog.org/">
     <img src="https://yt3.googleusercontent.com/LSEIeNfvWziRT0OJVlqazTy4E9cM83qTG8otYVjPtzvvKmBBmwt1A3YKixaCngg795gIeF1SBSY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Blog">
   </a>
