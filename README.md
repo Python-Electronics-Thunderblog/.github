@@ -58,17 +58,18 @@
 <a href="https://www.youtube.com/@ThunderBlogYouTube">
   <img src="https://yt3.googleusercontent.com/LSEIeNfvWziRT0OJVlqazTy4E9cM83qTG8otYVjPtzvvKmBBmwt1A3YKixaCngg795gIeF1SBSY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="YouTubeチャンネル">
 </a>
+</div>
 
 ### Twitter
-<p align="center">
+<div align="center">
   <a href="https://x.com/thunder5178">
     <img src="https://pbs.twimg.com/profile_banners/121376547/1627781558/600x200" alt="X (Twitter)">
   </a>
-</p>
+</div>
 
 ### Blog
-<p align="center">
+<div align="center">
   <a href="https://thunderblog.org/">
     <img src="https://yt3.googleusercontent.com/LSEIeNfvWziRT0OJVlqazTy4E9cM83qTG8otYVjPtzvvKmBBmwt1A3YKixaCngg795gIeF1SBSY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Blog">
   </a>
-</p>
+</div>
